@@ -15,7 +15,7 @@ Prerequisites
 l33tport was written using node.js, so you need to have a working node installation. For the crypto-foo we're are using the [Stanford Javascript Crypto Library](https://github.com/bitwiseshiftleft/sjclsjcl.js), for commandline parsing commander is needed:
 
 ```
-npm install sjcl
+npm install sjcl@1.0.3
 npm install commander
 ```
 
